@@ -1,5 +1,5 @@
 # GraphDBagainstFraud
-A brief example of how to use graph database to detect identity fraud using the 'RNeo4j' Package to connect R and Neo4j
+A brief example of how to use graph database to detect identity faking fraud using the 'RNeo4j' Package to connect R and Neo4j
 
 ___________________________________________________________________________________________________________________________
 
