@@ -3,6 +3,7 @@ A brief example of how to use graph database to detect identity fraud using the 
 
 ## Requirements
 R 3.3.1
+
 Neo4j 3.1
 
 ### Abstract
@@ -28,9 +29,13 @@ On one hand, it is possible to obtain the maximum related subgraph (of user info
 ### References
 
 [1] CRAN, 2016, ”Package ‘RNeo4j’:
+
 https://cran.r-project.org/web/packages/RNeo4j/RNeo4j.pdf
 
-[2] Linkurious, 2016, “How to detect bank loan fraud with graphs : part 2”: https://linkurio.us/how-to-detect-bank-loan-fraud-with-graphs-part-2/
+[2] Linkurious, 2016, “How to detect bank loan fraud with graphs : part 2”: 
+
+https://linkurio.us/how-to-detect-bank-loan-fraud-with-graphs-part-2/
 
 [3] Nicole White, 2016, “Demo of RNeo4j part 1”:
+
 https://nicolewhite.github.io/2014/05/30/demo-of-rneo4j-part1.html
